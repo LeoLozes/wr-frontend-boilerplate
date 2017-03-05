@@ -1,4 +1,4 @@
-# React Redux Frontend Boilerplate
+# React Redux Material-UI Boilerplate
 
 Base template for WR (Web-React) frontend projects at Dome Consulting.
 
